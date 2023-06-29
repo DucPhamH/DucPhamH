@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **DucPhamH/DucPhamH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-
-[![abcduc](https://github-readme-stats.vercel.app/api?username=DucPhamH&theme=dark&bg_color=0,374151,471827,000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abcduc](https://github-readme-stats.vercel.app/api?username=DucPhamH&theme=dark&ring_color=00ff00&bg_color=0,374151,471827,000000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
