@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![abcduc](https://github-readme-stats.vercel.app/api?username=DucPhamH&bg_color=ff0000&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abcduc](https://github-readme-stats.vercel.app/api?username=DucPhamH&bg_color=0,D1D5DB,C026D3,00580C&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
